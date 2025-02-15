@@ -1,6 +1,6 @@
 # LoginPage
 
-Projeto simples de uma página de login feito no [Angular](https://github.com/angular/angular-cli), inspirado no projeto do canal da [Fernanda Kipper | Dev](https://youtube.com/@kipperdev?si=ySpwfUSxiV7hyNh7)
+Projeto front end simples de uma página de login feito no [Angular](https://github.com/angular/angular-cli), inspirado no projeto do canal da [Fernanda Kipper | Dev](https://youtube.com/@kipperdev?si=ySpwfUSxiV7hyNh7)
 
 ## Development server
 
